@@ -1,17 +1,28 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+# iWeather Ionic 3 Weather App
 
-## How to use this template
+This is an Ionic 3 application that uses the wunderground api to report weather and stores location info in Ionic storage
 
-*This template does not work on its own*. 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+### Version
+1.0.0
 
-### With the Ionic CLI:
+## Usage
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myTabs tabs
+### Installation
+
+Install the dependencies
+
+```sh
+$ npm install
 ```
+
+### Serve
+To serve in the browser
+
+```sh
+$ ionic serve
+```
+
+#### :)
 
 
